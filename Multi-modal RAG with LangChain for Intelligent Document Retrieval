@@ -1,0 +1,30 @@
+Multi-modal RAG with LangChain for Intelligent Document Retrieval
+
+Overview
+This project implements a multi-modal Retrieval-Augmented Generation (RAG) pipeline using LangChain, Pinecone, and Llama-3.1 for intelligent document retrieval. The solution enables automated extraction, summarization, and retrieval of relevant information from PDFs, leveraging OCR to extract text from images.
+
+Features
+- Multi-modal document retrieval
+- Automated extraction and summarization of relevant information
+- OCR-based text extraction from images
+- Intelligent search and retrieval capabilities
+
+Technologies Used
+- LangChain
+- Pinecone
+- Llama-3.1
+- Groq
+- OCR (Optical Character Recognition)
+
+Requirements
+- Python 3.x
+- LangChain library
+- Pinecone library
+- Llama-3.1 model
+- Groq library
+- OCR library (e.g., Tesseract)
+
+Installation
+1. Set up LangChain, Pinecone, and Llama-3.1
+
+
